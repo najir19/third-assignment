@@ -1,7 +1,7 @@
-// 1. Function kilometerToMeter // Convert Kilometer to meter and return meter
-// 2. budgetCalculator // take 3 parameter, watch_price = 50, phone_price = 100, laptop_price = 500
-// 3. hotelCost  // 100
-// 4. megaFriend //return largest name
+
+//https://github.com/najir19/third-assignment
+
+
 
 
 //convert kemometer to meter
